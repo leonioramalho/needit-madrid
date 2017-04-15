@@ -28,7 +28,7 @@
 <p>Number: ${number}<br />Short description: ${short_description}</p>
 <p>Please complete this task as soon as possible.</p>
 <p>${mail_script:CountOverdueNeedItTasksAssignedTo}</p>
-<p>&nbsp;</p>
+<p>${mail_script:AddCC}</p>
 <p>&nbsp;</p>
 <p>Triggering record: &nbsp;${URI}<br />Same triggering record: &nbsp;${URI_REF}<br />Related record: &nbsp;${assigned_to.URI}<br />Same related record: &nbsp;${assigned_to.URI_REF}</p>
 <p>${NOTIF_UNSUB} from this notification by email or ${NOTIF_UNSUB+link_text="click here"}. Manage your ${NOTIF_PREFS} or ${NOTIF_PREFS+link_text="click here"}.</p>
@@ -39,9 +39,9 @@
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>assigned_to.manager</recipient_fields>
-        <recipient_groups name="NeedIt Users">d2dc68c80f0232000d030dbce1050e85</recipient_groups>
-        <recipient_users>46d44a23a9fe19810012d100cca80666,anybody.anywhere@email.address,6816f79cc0a8016401c5a33be04be441</recipient_users>
+        <recipient_fields>assigned_to</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -55,7 +55,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bc9c899a0f8232000d030dbce1050e10</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -64,7 +64,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysevent_email_action_bc9c899a0f8232000d030dbce1050e10</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-14 00:44:17</sys_updated_on>
+        <sys_updated_on>2017-04-15 01:51:40</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
