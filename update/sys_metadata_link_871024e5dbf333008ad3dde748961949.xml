@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>84b823a2eb13120034d1eeea1206fe2d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-13 14:25:54</sys_created_on>
+        <sys_id>84b823a2eb13120034d1eeea1206fe2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_change_cab.cab_manager</sys_name>
+        <sys_package display_value="Change Management - CAB Workbench" source="sn_change_cab">18351d53eb32120034d1eeea1206fe79</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</sys_scope>
+        <sys_security_acl display_value="cab_agenda_item">04b823a2eb13120034d1eeea1206fe2d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_84b823a2eb13120034d1eeea1206fe2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-13 14:25:54</sys_updated_on>
+        <sys_user_role display_value="sn_change_cab.cab_manager" name="sn_change_cab.cab_manager">d2d83927eb32120034d1eeea1206fef9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:53:56</sys_created_on>
+        <sys_id>871024e5dbf333008ad3dde748961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sn_change_cab.cab_manager</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_871024e5dbf333008ad3dde748961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:53:56</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a877044a4751300042bd757f2ede2709</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-10-26 21:32:19</sys_created_on>
+        <sys_id>a877044a4751300042bd757f2ede2709</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>clm_m2m_contract_document.</sys_name>
+        <sys_package display_value="Contract Management" source="com.snc.contract_management">f4f45622e135330078502406b6333354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="clm_m2m_contract_document">4717804a4751300042bd757f2ede278e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a877044a4751300042bd757f2ede2709</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-10-26 21:32:19</sys_updated_on>
+        <sys_user_role display_value="contract_manager" name="contract_manager">f37e91e11b302000aebbfbcd2c07139f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:57:53</sys_created_on>
+        <sys_id>b8016869dbf333008ad3dde748961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>clm_m2m_contract_document.</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_b8016869dbf333008ad3dde748961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:57:53</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

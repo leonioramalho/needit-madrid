@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>65aea14a0b311300eed8635663673ad6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-02 11:26:28</sys_created_on>
+        <sys_id>65aea14a0b311300eed8635663673ad6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.guided_tour_admin</sys_name>
+        <sys_package display_value="Guided Tours" source="com.glide.guided_tours">51b552a6e135330078502406b63333c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_guided_tour_analytics_event">01aea14a0b311300eed8635663673acc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_65aea14a0b311300eed8635663673ad6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-02 11:26:28</sys_updated_on>
+        <sys_user_role display_value="guided_tour_admin" name="guided_tour_admin">580a71e43b123200088d832b44efc41a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:53:53</sys_created_on>
+        <sys_id>da10e0e5dbf333008ad3dde748961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.guided_tour_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_da10e0e5dbf333008ad3dde748961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:53:53</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

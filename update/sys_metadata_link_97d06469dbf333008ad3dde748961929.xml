@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bf1a51b8df110100cd7da5f59bf263e5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-05-10 02:32:17</sys_created_on>
+        <sys_id>bf1a51b8df110100cd7da5f59bf263e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asmt_m2m_xcategory_matrix.assessment_admin</sys_name>
+        <sys_package display_value="Assessment" source="com.snc.assessment_core">17539e62e1f1330078502406b63333d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="asmt_m2m_xcategory_matrix">3f1a51b8df110100cd7da5f59bf263e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bf1a51b8df110100cd7da5f59bf263e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2013-05-10 02:32:17</sys_updated_on>
+        <sys_user_role display_value="assessment_admin" name="assessment_admin">3b008fafef1110002d4274341b22564b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:57:14</sys_created_on>
+        <sys_id>97d06469dbf333008ad3dde748961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asmt_m2m_xcategory_matrix.assessment_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_97d06469dbf333008ad3dde748961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:57:14</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

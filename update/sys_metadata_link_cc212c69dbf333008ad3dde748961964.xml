@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d1833db77320130032dc63f7fdf6a7fc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-06 18:58:58</sys_created_on>
+        <sys_id>d1833db77320130032dc63f7fdf6a7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>/now/cmdb/indicators.itil</sys_name>
+        <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">29b0166ae131330078502406b6333358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="/now/cmdb/indicators">4c3ac2ee7364530032dc63f7fdf6a797</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d1833db77320130032dc63f7fdf6a7fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-06 18:58:58</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:58:23</sys_created_on>
+        <sys_id>cc212c69dbf333008ad3dde748961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>/now/cmdb/indicators.itil</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_cc212c69dbf333008ad3dde748961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:58:23</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

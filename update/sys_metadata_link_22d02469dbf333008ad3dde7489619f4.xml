@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d350ab33eb130100d2d5abf11206fe8d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-08-27 06:06:10</sys_created_on>
+        <sys_id>d350ab33eb130100d2d5abf11206fe8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_app_module.device_type.nobody</sys_name>
+        <sys_package display_value="Mobile UI" source="com.glide.ui.m">33401a66e131330078502406b63333fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_app_module.device_type">3def9b33eb130100d2d5abf11206fe36</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d350ab33eb130100d2d5abf11206fe8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2013-08-27 06:06:10</sys_updated_on>
+        <sys_user_role display_value="nobody" name="nobody">b05940500a0a0aa70090a4893f6ff35d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:57:11</sys_created_on>
+        <sys_id>22d02469dbf333008ad3dde7489619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_app_module.device_type.nobody</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_22d02469dbf333008ad3dde7489619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:57:11</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

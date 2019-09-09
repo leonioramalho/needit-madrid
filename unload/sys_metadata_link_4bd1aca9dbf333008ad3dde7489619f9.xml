@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>29a43c19b7731300616ceb67ee11a9df</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-07 09:23:16</sys_created_on>
+        <sys_id>29a43c19b7731300616ceb67ee11a9df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwt_provider.oauth_admin</sys_name>
+        <sys_package display_value="OAuth 2.0" source="com.snc.platform.security.oauth">ff405a66e131330078502406b6333343</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="jwt_provider">0da4fc19b7731300616ceb67ee11a95e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_29a43c19b7731300616ceb67ee11a9df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-07 09:23:16</sys_updated_on>
+        <sys_user_role display_value="oauth_admin" name="oauth_admin">88a98433d7112100f20bc8170e61033e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 19:01:35</sys_created_on>
+        <sys_id>4bd1aca9dbf333008ad3dde7489619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwt_provider.oauth_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_4bd1aca9dbf333008ad3dde7489619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 19:01:35</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>ba8e101fd7002200bdbaee5b5e610363</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>marjan.marzban</sys_created_by>
+        <sys_created_on>2016-06-21 14:26:02</sys_created_on>
+        <sys_id>ba8e101fd7002200bdbaee5b5e610363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.agent_admin</sys_name>
+        <sys_package display_value="Core Automation" source="com.snc.core.automation">c2a39626e1f1330078502406b633333e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="ecc_agent_application">228e101fd7002200bdbaee5b5e610361</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ba8e101fd7002200bdbaee5b5e610363</sys_update_name>
+        <sys_updated_by>marjan.marzban</sys_updated_by>
+        <sys_updated_on>2016-06-21 14:26:02</sys_updated_on>
+        <sys_user_role display_value="agent_admin" name="agent_admin">8d1f97f0c611227d0100078c7573be2f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 19:04:25</sys_created_on>
+        <sys_id>6c82e8e9dbf333008ad3dde7489619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.agent_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_6c82e8e9dbf333008ad3dde7489619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 19:04:25</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

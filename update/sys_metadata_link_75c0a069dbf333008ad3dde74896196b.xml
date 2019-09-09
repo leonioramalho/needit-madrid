@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e9001732d712210032d7a3b20e61039e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-08-07 01:40:22</sys_created_on>
+        <sys_id>e9001732d712210032d7a3b20e61039e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_score_notes.pa_contributor</sys_name>
+        <sys_package display_value="Performance Analytics" source="com.snc.pa">3475d626e135330078502406b6333334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="pa_score_notes">3a83b798bf201100b96dac808c0739fc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e9001732d712210032d7a3b20e61039e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-08-07 01:40:22</sys_updated_on>
+        <sys_user_role display_value="pa_contributor" name="pa_contributor">aeec30b3bf101100b96dac808c073943</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:56:51</sys_created_on>
+        <sys_id>75c0a069dbf333008ad3dde74896196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_score_notes.pa_contributor</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_75c0a069dbf333008ad3dde74896196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:56:51</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

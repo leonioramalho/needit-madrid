@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>be6adc785372320023bdae4a16dc34ad</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>evan.qu</sys_created_by>
+        <sys_created_on>2017-05-15 08:48:31</sys_created_on>
+        <sys_id>be6adc785372320023bdae4a16dc34ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_running_process_tbsm.itil</sys_name>
+        <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">29b0166ae131330078502406b6333358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="cmdb_running_process_tbsm">0e6a90b85372320023bdae4a16dc3460</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_be6adc785372320023bdae4a16dc34ad</sys_update_name>
+        <sys_updated_by>evan.qu</sys_updated_by>
+        <sys_updated_on>2017-05-15 08:48:31</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:54:11</sys_created_on>
+        <sys_id>2a20e4e5dbf333008ad3dde7489619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_running_process_tbsm.itil</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2a20e4e5dbf333008ad3dde7489619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:54:11</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

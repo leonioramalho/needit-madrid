@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>07d6f7a63b021000dada82c09ccf3df6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Frankie.Thompson</sys_created_by>
+        <sys_created_on>2011-11-03 18:37:05</sys_created_on>
+        <sys_id>07d6f7a63b021000dada82c09ccf3df6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wf_stage_default.workflow_creator</sys_name>
+        <sys_package display_value="Workflow Authoring Tools" source="com.glideapp.workflow.authoring">e944166ae1f1330078502406b63333b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="wf_stage_default">30b37844c0a8016b00ccf019b7be0a73</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_07d6f7a63b021000dada82c09ccf3df6</sys_update_name>
+        <sys_updated_by>Frankie.Thompson</sys_updated_by>
+        <sys_updated_on>2011-11-03 18:37:05</sys_updated_on>
+        <sys_user_role display_value="workflow_creator" name="workflow_creator">79f7cffc0a0a0b8f00689ff096d8df9b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:56:07</sys_created_on>
+        <sys_id>43906c29dbf333008ad3dde74896192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wf_stage_default.workflow_creator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_43906c29dbf333008ad3dde74896192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:56:07</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

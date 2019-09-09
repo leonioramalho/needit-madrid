@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2c272f505f202200c438ef50ff46660f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-07-07 17:53:31</sys_created_on>
+        <sys_id>2c272f505f202200c438ef50ff46660f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.script_debugger</sys_name>
+        <sys_package display_value="JS Debugger controllers and API" source="com.glide.glide-js-debugger-api">52551ae2e135330078502406b633333e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="acl_script_debugger_api">44272f505f202200c438ef50ff46660d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2c272f505f202200c438ef50ff46660f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-07-07 17:53:31</sys_updated_on>
+        <sys_user_role display_value="script_debugger" name="script_debugger">b0f6ba405f202200c438ef50ff466687</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:57:39</sys_created_on>
+        <sys_id>e9f02869dbf333008ad3dde748961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.script_debugger</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e9f02869dbf333008ad3dde748961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:57:39</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

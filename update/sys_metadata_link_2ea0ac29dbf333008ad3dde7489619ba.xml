@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>34a83625732013001923054dfff6a722</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-28 00:13:59</sys_created_on>
+        <sys_id>34a83625732013001923054dfff6a722</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_aw_ribbon_setting.workspace_admin</sys_name>
+        <sys_package display_value="Agent Workspace - Ribbon" source="com.snc.agent_workspace.ribbon">3f969e2ee135330078502406b6333356</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_aw_ribbon_setting">34a83625732013001923054dfff6a721</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_34a83625732013001923054dfff6a722</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-28 00:14:14</sys_updated_on>
+        <sys_user_role display_value="workspace_admin" name="workspace_admin">4de911f65344130084acddeeff7b12ce</sys_user_role>
+        <transaction_id>7ca83ae1732013001923054dfff6a709</transaction_id>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:56:22</sys_created_on>
+        <sys_id>2ea0ac29dbf333008ad3dde7489619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_aw_ribbon_setting.workspace_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2ea0ac29dbf333008ad3dde7489619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:56:22</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

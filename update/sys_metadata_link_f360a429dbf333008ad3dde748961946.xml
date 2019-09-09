@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>aa98d53ab7042300dcae6079ee11a96b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-24 14:06:33</sys_created_on>
+        <sys_id>aa98d53ab7042300dcae6079ee11a96b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.web_service_admin</sys_name>
+        <sys_package display_value="Enhanced Web Service Provider - Common" source="com.glide.web_service_provider_v2">b3e396a6e1f1330078502406b63333eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_soap_security_policy">2698d53ab7042300dcae6079ee11a96b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_aa98d53ab7042300dcae6079ee11a96b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-24 14:06:33</sys_updated_on>
+        <sys_user_role display_value="web_service_admin" name="web_service_admin">8ced49cb0a0a0b8f00bd2ecf512c510b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:55:21</sys_created_on>
+        <sys_id>f360a429dbf333008ad3dde748961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.web_service_admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_f360a429dbf333008ad3dde748961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:55:21</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

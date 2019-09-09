@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>42d3dc88a681268d0140fa7d5eb02957</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-02-04 19:46:34</sys_created_on>
+        <sys_id>42d3dc88a681268d0140fa7d5eb02957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>kb_knowledge.knowledge</sys_name>
+        <sys_package display_value="Contextual Security Rules" source="com.glide.acl.service">996496aae1f1330078502406b6333314</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="kb_knowledge">42d36584a681268d00fbce05ab476da0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_42d3dc88a681268d0140fa7d5eb02957</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2009-02-04 19:46:34</sys_updated_on>
+        <sys_user_role display_value="knowledge" name="knowledge">1f26da36c0a8016b000c7f06a1ce7e14</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 18:57:33</sys_created_on>
+        <sys_id>fbe0e469dbf333008ad3dde7489619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>kb_knowledge.knowledge</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_fbe0e469dbf333008ad3dde7489619b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 18:57:33</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>

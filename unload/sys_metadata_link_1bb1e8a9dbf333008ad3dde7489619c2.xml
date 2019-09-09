@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>19ab84f0b7202300d23cb5edde11a9c5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 23:53:59</sys_created_on>
+        <sys_id>19ab84f0b7202300d23cb5edde11a9c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_hub_action_type_definition.flow_operator</sys_name>
+        <sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model">f1d512e6e135330078502406b63333ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_security_acl display_value="sys_hub_action_type_definition">08d3492c0bd23200c438ee6537673a15</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_19ab84f0b7202300d23cb5edde11a9c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 23:53:59</sys_updated_on>
+        <sys_user_role display_value="flow_operator" name="flow_operator">36e3325dcb623200a30bb895634c9c4f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 19:01:03</sys_created_on>
+        <sys_id>1bb1e8a9dbf333008ad3dde7489619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_hub_action_type_definition.flow_operator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1bb1e8a9dbf333008ad3dde7489619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 19:01:03</sys_updated_on>
+        <tablename>sys_security_acl_role</tablename>
+    </sys_metadata_link>
+</record_update>
